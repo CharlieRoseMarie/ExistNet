@@ -1,8 +1,9 @@
 ﻿################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
-
-/.vs/ExistNet/v15
+.idea
+/.vs/ExistLogic/v15
 /.vs
-/ExistNet/obj
-/ExistNet.sln.DotSettings.user
+*/obj
+*/bin
+/ExistLogic.sln.DotSettings.user
