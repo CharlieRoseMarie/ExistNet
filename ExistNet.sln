@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exist", "Exist\Exist.csproj", "{D73971F7-96E0-4FC1-B653-9E0012A4FE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExistLogic", "ExistLogic\ExistLogic.csproj", "{3D570B22-76B2-4BAC-8EE2-2D4260B3E810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73971F7-96E0-4FC1-B653-9E0012A4FE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73971F7-96E0-4FC1-B653-9E0012A4FE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73971F7-96E0-4FC1-B653-9E0012A4FE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73971F7-96E0-4FC1-B653-9E0012A4FE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D570B22-76B2-4BAC-8EE2-2D4260B3E810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D570B22-76B2-4BAC-8EE2-2D4260B3E810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D570B22-76B2-4BAC-8EE2-2D4260B3E810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D570B22-76B2-4BAC-8EE2-2D4260B3E810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
